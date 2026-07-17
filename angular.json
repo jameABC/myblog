@@ -19,7 +19,7 @@
           "options": {
             "outputPath": "dist/myblog",
             "index": "src/index.html",
-            "browser": {},
+            "browser": "src/",
             "polyfills": [
               "zone.js"
             ],
